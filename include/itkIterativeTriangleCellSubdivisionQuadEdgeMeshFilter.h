@@ -19,6 +19,7 @@
 #ifndef itkIterativeTriangleCellSubdivisionQuadEdgeMeshFilter_h
 #define itkIterativeTriangleCellSubdivisionQuadEdgeMeshFilter_h
 
+#include "itkConceptChecking.h"
 #include "itkQuadEdgeMeshToQuadEdgeMeshFilter.h"
 
 namespace itk
